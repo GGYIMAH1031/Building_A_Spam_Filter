@@ -3,12 +3,12 @@ title: 'Text Analytics: Building A Spam Filter'
 author: "Godfred Somua-Gyimah"
 date: "February 20, 2017"
 output:
-  pdf_document:
-    toc: yes
-    toc_depth: 3
   html_document:
     toc: yes
     toc_depth: '3'
+  pdf_document:
+    toc: yes
+    toc_depth: 3
 ---
 
 # INTRODUCTION
